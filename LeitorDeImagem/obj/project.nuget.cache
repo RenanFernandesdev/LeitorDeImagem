@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "58ZWdcFvcfy0HDl5u/ccvRyuCUtxOWnle/Y/unTxSSLFYPDG0l1QcjsyCAoyxI+QCJG6Mfl9v3hMjFqSoEtepA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\LeitorDeImagem\\LeitorDeImagem\\LeitorDeImagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renan.fernandes\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\renan.fernandes\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\renan.fernandes\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\renan.fernandes\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\renan.fernandes\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512",
+    "C:\\Users\\renan.fernandes\\.nuget\\packages\\tesseract.net.sdk\\4.1.411\\tesseract.net.sdk.4.1.411.nupkg.sha512"
+  ],
+  "logs": []
+}
