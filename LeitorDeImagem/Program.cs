@@ -9,7 +9,7 @@ namespace LeitorDeImagem
         static void Main(string[] args)
         {
             string sourceFile;
-            string[] files = Directory.GetFiles(@"C:\Users\renan.fernandes\Desktop\ilovepdf_pages-to-jpg");
+            string[] files = Directory.GetFiles(@"");
             string directoryLocale = Directory.GetCurrentDirectory();
             Directory.CreateDirectory(directoryLocale + "\\Retorno");
             
